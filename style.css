@@ -688,6 +688,7 @@ button.book-now:hover {
 
     .image-gallery img {
         width: calc(50% - 10px);
+        object-fit: cover;
     }
     .image-gallery{
         margin-top: 20px;
